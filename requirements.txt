@@ -1,0 +1,10 @@
+# Termux-Package: Daftar Library / Package Python (Pip)
+# Tambahkan atau kurangi nama package per baris.
+# Baris yang diawali '#' atau baris kosong akan diabaikan.
+
+requests
+mechanize
+beautifulsoup4
+pyngrok
+play-audio
+lolcat
